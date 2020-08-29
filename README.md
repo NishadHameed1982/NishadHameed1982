@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/NishadHameed1982/RN_CovidTracker/blob/master/docs/mycovidtracker_featureimage_001.png)
+![alt text](bannerimage_001.png)
 <!--
 **NishadHameed1982/NishadHameed1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
