@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **NishadHameed1982/NishadHameed1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Nishad Hameed
+## Nishad Hameed 👋
 ## I'm a Tester by profession, interested in app development using React Native
 
 
