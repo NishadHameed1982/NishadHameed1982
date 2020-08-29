@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Nishad Hameed
-## Tester by profession, interested in app development using React Native
+## I'm a Tester by profession, interested in app development using React Native
 
 
 "The key to achieving more is having a high-performance mindset"
