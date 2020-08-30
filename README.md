@@ -13,7 +13,7 @@ I'm a competent, diligent and result oriented professional offering over 14 year
 
 [COVID TRACKER]: https://github.com/NishadHameed1982/RN_CovidTracker/blob/master/README.md
 
-Check out [COVID TRACKER] for more details about my first app developed on React Native.
+#### Check out [COVID TRACKER] for more details about my first app developed on React Native.
 
 [LinkedIn]: https://www.linkedin.com/in/nishad-hameed-31745547/
 ### View my job profile on [LinkedIn]
