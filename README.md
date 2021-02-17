@@ -3,7 +3,7 @@
 
 
 ## Nishad Hameed 👋
-## I'm a software test professional , passionate in app development using React Native!!
+## I'm a software test professional !!
 
 
 ### "The key to achieving more is having a high-performance mindset"
