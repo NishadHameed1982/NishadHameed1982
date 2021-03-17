@@ -3,7 +3,7 @@
 
 
 ## Nishad Hameed 👋
-## I'm a software test professional !!
+## Test Automation Consultant - Tester by Profession, Developer by Passion!!
 
 
 ### "The key to achieving more is having a high-performance mindset"
