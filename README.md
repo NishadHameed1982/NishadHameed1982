@@ -8,19 +8,20 @@
 
 ### "The key to achieving more is having a high-performance mindset"
 
+About
 A competent, diligent, and result-oriented professional offering over 13 years of experience in Software Quality Engineering, enriched with the latest trends and techniques. I am an Agile Scrum expert with a firm grounding in product development and extensive experience working with scrum teams and agile ways of working. Expert in Software Testing Processes and Methodologies, including Manual Testing and Test Automation. Apt in developing various testing artefacts, including Manual and Automation Test Strategies, Test Approaches, Roadmaps and Test Plans. My goal is to build a world-class, cutting-edge, and innovative QA practice with automation testing at the forefront that delivers quality software and exceptional business value.
 
 ✔ Experience in leading testing projects and programs with local and geographically distributed teams in a multi-cultural environment.
 
 ✔ Worked closely with the Product Management, Software Engineering, User Experience, Design, and Support teams to understand the product vision, roadmap, and quality pain points to develop appropriate test strategies.
 
-✔ Proficient in 𝐌𝐚𝐧𝐮𝐚𝐥 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐞𝐬𝐭 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧.
+✔ Proficient in 𝗠𝗮𝗻𝘂𝗮𝗹 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗲𝘀𝘁 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻.
 
-✔ Automated business acceptance criteria through 𝐁𝐞𝐡𝐚𝐯𝐢𝐨𝐫 𝐃𝐫𝐢𝐯𝐞𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 (𝐁𝐃𝐃) 𝐮𝐬𝐢𝐧𝐠 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐖𝐞𝐛𝐃𝐫𝐢𝐯𝐞𝐫, 𝐂𝐮𝐜𝐮𝐦𝐛𝐞𝐫, 𝐒𝐞𝐫𝐞𝐧𝐢𝐭𝐲, 𝐌𝐚𝐯𝐞𝐧, 𝐉𝐔𝐧𝐢𝐭 𝐚𝐧𝐝 𝐑𝐞𝐬𝐭𝐀𝐬𝐬𝐮𝐫𝐞𝐝, 𝐜𝐚𝐩𝐢𝐭𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐆𝐡𝐞𝐫𝐤𝐢𝐧, 𝐉𝐚𝐯𝐚𝐒𝐫𝐢𝐩𝐭 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚 coding and scripting skills.
+✔ Automated business acceptance criteria through 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝗗𝗿𝗶𝘃𝗲𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗕𝗗𝗗) using 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗗𝗿𝗶𝘃𝗲𝗿, 𝗖𝘂𝗰𝘂𝗺𝗯𝗲𝗿, 𝗦𝗲𝗿𝗲𝗻𝗶𝘁𝘆, 𝗠𝗮𝘃𝗲𝗻, 𝗝𝗨𝗻𝗶𝘁 𝗮𝗻𝗱 𝗥𝗲𝘀𝘁𝗔𝘀𝘀𝘂𝗿𝗲𝗱, capitalizing 𝗚𝗵𝗲𝗿𝗸𝗶𝗻, 𝗝𝗮𝘃𝗮𝗦𝗿𝗶𝗽𝘁 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮 coding and scripting skills.
 
-✔ Experience working with an 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐫𝐞𝐥𝐞𝐚𝐬𝐞 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞 𝐮𝐬𝐢𝐧𝐠 𝐂𝐈/𝐂𝐃 𝐭𝐨𝐨𝐥 𝐬𝐮𝐜𝐡 𝐚𝐬 𝐉𝐞𝐧𝐤𝐢𝐧𝐬.
+✔ Experience working with 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗿𝗲𝗹𝗲𝗮𝘀𝗲 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝘂𝘀𝗶𝗻𝗴 𝗖𝗜/𝗖𝗗 𝘁𝗼𝗼𝗹 𝘀𝘂𝗰𝗵 𝗮𝘀 𝗝𝗲𝗻𝗸𝗶𝗻𝘀.
 
-✔ Experience in 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈 𝐓𝐞𝐬𝐭 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐑𝐞𝐬𝐭 𝐀𝐬𝐬𝐮𝐫𝐞𝐝 𝐚𝐧𝐝 𝐓𝐞𝐬𝐭𝐍𝐆.
+✔ Experience in REST API Test Automation using 𝗥𝗲𝘀𝘁 𝗔𝘀𝘀𝘂𝗿𝗲𝗱 𝗮𝗻𝗱 𝗧𝗲𝘀𝘁𝗡𝗚.
 
 ✔Proven ability in creating Page Objects, Data-Driven, Keyword driven automation frameworks for Mobile and Web application clients using Java, JavaScript, Selenium WebDriver, Maven, TestNG and Appium.
 
@@ -30,9 +31,9 @@ A competent, diligent, and result-oriented professional offering over 13 years o
 
 ✔ Expert level JIRA Administrator, proficient in setting up custom workflows, fields, dashboards, and reports.
 
-✔ Certified ScrumMaster from Scrum Alliance.
+✔ 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗦𝗰𝗿𝘂𝗺𝗠𝗮𝘀𝘁𝗲𝗿 from Scrum Alliance.
 
-✔ Expert in 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗕𝗮𝗻𝗸𝗶𝗻𝗴 (Consumer & Corporate Online Banking, Mobile Banking), Payment Solutions, Debit & Credit Cards, and Core Banking.
+✔ Expert in Digital Banking (Consumer & Corporate Online Banking, Mobile Banking), Payment Solutions, Debit & Credit Cards, and Core Banking.
 
 [LinkedIn]: https://www.linkedin.com/in/nishad-hameed-31745547/
 ### View my job profile on [LinkedIn]
