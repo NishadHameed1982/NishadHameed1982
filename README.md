@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/NishadHameed1982/NishadHameed1982/blob/master/bannerimage_004.png)
+![alt text](Orange and Black Furniture Hub LinkedIn Banner.png)
 
 
 ## Nishad Hameed 👋
