@@ -10,7 +10,7 @@
 
 ### About
 
-A competent, diligent, and result-oriented professional offering over 13 years of experience in Software Quality Engineering, enriched with the latest trends and techniques. I am an Agile Scrum expert with a firm grounding in product development and extensive experience working with scrum teams and agile ways of working. Expert in Software Testing Processes and Methodologies, including Manual Testing and Test Automation. Apt in developing various testing artefacts, including Manual and Automation Test Strategies, Test Approaches, Roadmaps and Test Plans. My goal is to build a world-class, cutting-edge, and innovative QA practice with automation testing at the forefront that delivers quality software and exceptional business value.
+A competent, diligent, and result-oriented professional offering over 15 years of experience in Software Quality Engineering, enriched with the latest trends and techniques. I am an Agile Scrum expert with a firm grounding in product development and extensive experience working with scrum teams and agile ways of working. Expert in Software Testing Processes and Methodologies, including Manual Testing and Test Automation. Apt in developing various testing artefacts, including Manual and Automation Test Strategies, Test Approaches, Roadmaps and Test Plans. My goal is to build a world-class, cutting-edge, and innovative QA practice with automation testing at the forefront that delivers quality software and exceptional business value.
 
 ✔ Experience in leading testing projects and programs with local and geographically distributed teams in a multi-cultural environment.
 
