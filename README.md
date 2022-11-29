@@ -3,7 +3,7 @@
 
 
 ## Nishad Hameed 👋
-## Test Automation Consultant - Tester by Profession, Developer by Passion!!
+## Test Architect - Quality Engineering, Tester by Profession, Developer by Passion!!
 
 
 ### "The key to achieving more is having a high-performance mindset"
