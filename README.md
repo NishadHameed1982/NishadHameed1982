@@ -3,38 +3,22 @@
 
 
 ## Nishad Hameed 👋
-## Test Architect - Quality Engineering, Tester by Profession, Developer by Passion!!
+## Test Architect - Quality Engineering
 
 
 ### "The key to achieving more is having a high-performance mindset"
 
 ### About
 
-A competent, diligent, and result-oriented professional offering over 15 years of experience in Software Quality Engineering, enriched with the latest trends and techniques. I am an Agile Scrum expert with a firm grounding in product development and extensive experience working with scrum teams and agile ways of working. Expert in Software Testing Processes and Methodologies, including Manual Testing and Test Automation. Apt in developing various testing artefacts, including Manual and Automation Test Strategies, Test Approaches, Roadmaps and Test Plans. My goal is to build a world-class, cutting-edge, and innovative QA practice with automation testing at the forefront that delivers quality software and exceptional business value.
+As a Software Test Architect with 15 years of experience in manual and automation testing, I have worked in several industries, including Real Estate, Hospitality, Entertainment, Banking, and Aerospace. I am an expert in Selenium and Appium, using Java as my primary programming language.
 
-✔ Experience in leading testing projects and programs with local and geographically distributed teams in a multi-cultural environment.
+In addition to my experience in multiple industries, I have specific expertise in Salesforce implementation projects for real estate projects. I have experience in implementing testing strategies and developing automated testing frameworks for Salesforce projects, and have worked with teams to ensure the delivery of high-quality software that meets business requirements.
 
-✔ Worked closely with the Product Management, Software Engineering, User Experience, Design, and Support teams to understand the product vision, roadmap, and quality pain points to develop appropriate test strategies.
+I am also highly skilled in agile methodologies, including Scrum and Kanban, and have experience collaborating with cross-functional teams to ensure that software is delivered on time and to the highest standards. Throughout my career, I have built and led testing teams, created and implemented testing strategies, and maintained automated testing frameworks.
 
-✔ Proficient in 𝗠𝗮𝗻𝘂𝗮𝗹 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗲𝘀𝘁 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻.
+I am a proactive and forward-thinking individual who is passionate about staying current with industry trends and continuously improving my skills. My goal is to build world-class QA practices that deliver quality software and exceptional business value, with automation testing at the forefront.
+![image](https://user-images.githubusercontent.com/50908892/218968276-83e3bbf0-0ed7-4eea-aa18-f4e622e8053b.png)
 
-✔ Automated business acceptance criteria through 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝗗𝗿𝗶𝘃𝗲𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗕𝗗𝗗) using 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗗𝗿𝗶𝘃𝗲𝗿, 𝗖𝘂𝗰𝘂𝗺𝗯𝗲𝗿, 𝗦𝗲𝗿𝗲𝗻𝗶𝘁𝘆, 𝗠𝗮𝘃𝗲𝗻, 𝗝𝗨𝗻𝗶𝘁 𝗮𝗻𝗱 𝗥𝗲𝘀𝘁𝗔𝘀𝘀𝘂𝗿𝗲𝗱, capitalizing 𝗚𝗵𝗲𝗿𝗸𝗶𝗻, 𝗝𝗮𝘃𝗮𝗦𝗿𝗶𝗽𝘁 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮 coding and scripting skills.
-
-✔ Experience working with 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗿𝗲𝗹𝗲𝗮𝘀𝗲 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝘂𝘀𝗶𝗻𝗴 𝗖𝗜/𝗖𝗗 𝘁𝗼𝗼𝗹 𝘀𝘂𝗰𝗵 𝗮𝘀 𝗝𝗲𝗻𝗸𝗶𝗻𝘀.
-
-✔ Experience in REST API Test Automation using 𝗥𝗲𝘀𝘁 𝗔𝘀𝘀𝘂𝗿𝗲𝗱 𝗮𝗻𝗱 𝗧𝗲𝘀𝘁𝗡𝗚.
-
-✔Proven ability in creating Page Objects, Data-Driven, Keyword driven automation frameworks for Mobile and Web application clients using Java, JavaScript, Selenium WebDriver, Maven, TestNG and Appium.
-
-✔ Proficient in using JMeter and BlazeMeter for Performance Testing.
-
-✔ Proficient in using Unified Functional Testing (UFT), Postman, JIRA, Bugzilla, HP Quality Center and Microsoft Test Manager.
-
-✔ Expert level JIRA Administrator, proficient in setting up custom workflows, fields, dashboards, and reports.
-
-✔ 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗦𝗰𝗿𝘂𝗺𝗠𝗮𝘀𝘁𝗲𝗿 from Scrum Alliance.
-
-✔ Expert in Digital Banking (Consumer & Corporate Online Banking, Mobile Banking), Payment Solutions, Debit & Credit Cards, and Core Banking.
 
 [LinkedIn]: https://www.linkedin.com/in/nishad-hameed-31745547/
 ### View my job profile on [LinkedIn]
