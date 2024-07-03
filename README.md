@@ -9,7 +9,7 @@
 ### "The key to achieving more is having a high-performance mindset"
 
 ### About
-As a Software Test Architect with 15 years of experience in manual and automation testing, I have worked in several industries, including Real Estate, Hospitality, Entertainment, Banking, and Aerospace. I am an expert in Selenium and Appium, using Java as my primary programming language.
+As a Software Test Architect with 17 years of experience in manual and automation testing, I have worked in several industries, including Real Estate, Hospitality, Entertainment, Banking, and Aerospace. I am an expert in Selenium and Appium, using Java as my primary programming language.
 
 In addition to my experience in multiple industries, I have specific expertise in Salesforce implementation projects for real estate projects. I have experience in implementing testing strategies and developing automated testing frameworks for Salesforce projects, and have worked with teams to ensure the delivery of high-quality software that meets business requirements.
 
