@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/NishadHameed1982/NishadHameed1982/blob/master/LinkedInBanner.png)
+![alt text](https://github.com/NishadHameed1982/NishadHameed1982/blob/master/Nishad Hameed_ProfileBackground.png)
 
 
 ## Nishad Hameed 👋
